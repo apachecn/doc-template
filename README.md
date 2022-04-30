@@ -36,7 +36,7 @@
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
-> 收割 SB 的人会被 SB 们封神，试图唤醒 SB 的人是 SB 眼中的 SB。——SB 第三定律
+> 新时代需要新道德。——《三体》
 
 * [在线阅读](https://{domain}.apachecn.org)
 * [在线阅读（Gitee）](https://apachecn.gitee.io/doc-template/)
