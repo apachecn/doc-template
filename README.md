@@ -36,6 +36,8 @@
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
+> 阶段：机翻（1）
+> 
 > 新时代需要新道德。——《三体》
 
 * [在线阅读](https://{domain}.apachecn.org)
