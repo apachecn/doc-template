@@ -38,7 +38,7 @@
 > 
 > 阶段：机翻（1）
 > 
-> 新时代需要新道德。——《三体》
+> 成功只是偶发事件，失败才是人生常态。
 
 * [在线阅读](https://{domain}.apachecn.org)
 * [在线阅读（Gitee）](https://apachecn.gitee.io/doc-template/)
