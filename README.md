@@ -38,7 +38,7 @@
 > 
 > 阶段：机翻（1）
 > 
-> 成功只是偶发事件，失败才是人生常态。
+> 没有所谓不变的道德，只有行得通与行不通。——《与神对话之新启示上》 
 
 * [在线阅读](https://{domain}.apachecn.org)
 * [在线阅读（Gitee）](https://apachecn.gitee.io/doc-template/)
