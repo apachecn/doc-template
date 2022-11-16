@@ -38,7 +38,7 @@
 > 
 > 阶段：机翻（1）
 > 
-> 没有所谓不变的道德，只有行得通与行不通。——《与神对话之新启示上》 
+> I don't give a fuck about 人家说什么。他们想说什么就说什么，但是他们算什么？没有谁有权力拿他的标准衡量我。主宰是我自己，随便人家如何想，我还是我。——宋岳庭《生命是场斗争》 
 
 * [在线阅读](https://{domain}.apachecn.org)
 * [在线阅读（Gitee）](https://apachecn.gitee.io/doc-template/)
